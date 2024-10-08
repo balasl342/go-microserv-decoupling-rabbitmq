@@ -1,1 +1,1 @@
-# go-queuing-system
+# RabbitMQ Microservices decoupling Example
